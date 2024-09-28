@@ -1,0 +1,5 @@
+row=int(input())
+for i in row:
+    for j in row-1:
+        print("*")
+    print()
